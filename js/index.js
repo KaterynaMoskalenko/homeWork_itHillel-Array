@@ -104,6 +104,6 @@ let arrayObjectOftelefonNumerMore2000 = [];
   }
 
 }
-
+contentDiv3.innerHTML += '<p>Дивитись відповідь у консоль</p>';
 console.log(arrayObjectOftelefonNumerMore2000);
 console.log(arrayOftelefonNumerMore2000)
